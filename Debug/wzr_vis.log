@@ -1,0 +1,48 @@
+﻿  interakcja.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(17,35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(167,60): warning C4244: '+=': conversion from 'float' to 'long', possible loss of data
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(355,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(356,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(439,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(491,41): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(498,35): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(444,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(445,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(461,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(493,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(500,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(434,10): warning C4101: 'text': unreferenced local variable
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(460,10): warning C4101: 'text': unreferenced local variable
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(566,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(567,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(591,42): warning C4244: '=': conversion from 'long' to 'float', possible loss of data
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(592,52): warning C4244: '-=': conversion from 'float' to 'long', possible loss of data
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(593,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(609,1): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(674,41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(706,59): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(707,44): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(713,60): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(714,45): warning C4305: '=': truncation from 'double' to 'float'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(720,48): warning C4305: '/=': truncation from 'double' to 'float'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(727,46): warning C4305: '*=': truncation from 'double' to 'float'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(734,46): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(740,32): warning C4305: '+=': truncation from 'double' to 'float'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(745,32): warning C4305: '-=': truncation from 'double' to 'float'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(755,22): warning C4305: '/=': truncation from 'double' to 'float'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(763,22): warning C4305: '*=': truncation from 'double' to 'float'
+D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\interakcja.cpp(881): warning C4715: 'ChecWpolpracy': not all control paths return a value
+  wzr_vis.vcxproj -> D:\repos\Wirtualne Zespoly Robocze\wzr-3a-wspolpraca-FinalBattle\Debug\wzr_vis.exe
